@@ -4,7 +4,7 @@
 
 An app for managing tasks in a Kanban way.
 
-This was a project done for a coding bootcamp to practice the following skils
+This was a project done for a coding bootcamp to practice the following skils:
 
 - CSS
 - Bootstrap

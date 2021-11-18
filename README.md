@@ -24,5 +24,5 @@ This was a project done for a coding bootcamp to practice the following skils
 ![A screenshot of the Taskmaster Pro app](./assets/images/screenshot.PNG)
 
 ## Live Site
-[Link}(https://jdpasternak.github.io/taskmaster-pro)
+[Link](https://jdpasternak.github.io/taskmaster-pro)
 
